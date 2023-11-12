@@ -1,0 +1,53 @@
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\bin\Debug\Streams.exe.config
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\bin\Debug\Streams.exe
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\bin\Debug\Streams.pdb
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\obj\Debug\Streams.csproj.AssemblyReference.cache
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\obj\Debug\Streams.csproj.SuggestedBindingRedirects.cache
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\obj\Debug\Streams.Form1.resources
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\obj\Debug\Streams.Properties.Resources.resources
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\obj\Debug\Streams.csproj.GenerateResource.cache
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\obj\Debug\Streams.csproj.CoreCompileInputs.cache
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\obj\Debug\Streams.exe
+C:\Users\zmikh\Desktop\ННГУ\2 курс\Языки программирования\Streams\obj\Debug\Streams.pdb
+C:\Users\Алексей\Downloads\Streams\Streams\bin\Debug\Streams.exe.config
+C:\Users\Алексей\Downloads\Streams\Streams\bin\Debug\Streams.exe
+C:\Users\Алексей\Downloads\Streams\Streams\bin\Debug\Streams.pdb
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Streams.csproj.AssemblyReference.cache
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Streams.csproj.SuggestedBindingRedirects.cache
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Streams.Form1.resources
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Streams.Properties.Resources.resources
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Streams.csproj.GenerateResource.cache
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Streams.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Streams.exe
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Streams.pdb
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Interop.WMPLib.dll
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Streams.csproj.ResolveComReference.cache
+C:\Users\Алексей\Downloads\Streams\Streams\obj\Debug\Interop.MediaPlayer.dll
+D:\Streams\Streams\bin\Debug\Streams.exe.config
+D:\Streams\Streams\bin\Debug\Streams.exe
+D:\Streams\Streams\bin\Debug\Streams.pdb
+D:\Streams\Streams\obj\Debug\Streams.csproj.AssemblyReference.cache
+D:\Streams\Streams\obj\Debug\Streams.csproj.SuggestedBindingRedirects.cache
+D:\Streams\Streams\obj\Debug\Interop.MediaPlayer.dll
+D:\Streams\Streams\obj\Debug\Interop.WMPLib.dll
+D:\Streams\Streams\obj\Debug\Streams.csproj.ResolveComReference.cache
+D:\Streams\Streams\obj\Debug\Streams.Form1.resources
+D:\Streams\Streams\obj\Debug\Streams.Properties.Resources.resources
+D:\Streams\Streams\obj\Debug\Streams.csproj.GenerateResource.cache
+D:\Streams\Streams\obj\Debug\Streams.csproj.CoreCompileInputs.cache
+D:\Streams\Streams\obj\Debug\Streams.exe
+D:\Streams\Streams\obj\Debug\Streams.pdb
+D:\C#_Projects\Streams\Streams\bin\Debug\Streams.exe.config
+D:\C#_Projects\Streams\Streams\bin\Debug\Streams.exe
+D:\C#_Projects\Streams\Streams\bin\Debug\Streams.pdb
+D:\C#_Projects\Streams\Streams\obj\Debug\Streams.csproj.AssemblyReference.cache
+D:\C#_Projects\Streams\Streams\obj\Debug\Streams.csproj.SuggestedBindingRedirects.cache
+D:\C#_Projects\Streams\Streams\obj\Debug\Interop.MediaPlayer.dll
+D:\C#_Projects\Streams\Streams\obj\Debug\Interop.WMPLib.dll
+D:\C#_Projects\Streams\Streams\obj\Debug\Streams.csproj.ResolveComReference.cache
+D:\C#_Projects\Streams\Streams\obj\Debug\Streams.Form1.resources
+D:\C#_Projects\Streams\Streams\obj\Debug\Streams.Properties.Resources.resources
+D:\C#_Projects\Streams\Streams\obj\Debug\Streams.csproj.GenerateResource.cache
+D:\C#_Projects\Streams\Streams\obj\Debug\Streams.csproj.CoreCompileInputs.cache
+D:\C#_Projects\Streams\Streams\obj\Debug\Streams.exe
+D:\C#_Projects\Streams\Streams\obj\Debug\Streams.pdb

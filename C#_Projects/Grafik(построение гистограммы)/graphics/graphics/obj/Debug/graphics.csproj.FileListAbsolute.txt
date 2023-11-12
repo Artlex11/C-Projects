@@ -1,0 +1,31 @@
+F:\Рабочий стол\Вышка Лобач\2 курс\ПРОГИ\2 дз\graphics\graphics\bin\Debug\graphics.exe.config
+F:\Рабочий стол\Вышка Лобач\2 курс\ПРОГИ\2 дз\graphics\graphics\bin\Debug\graphics.exe
+F:\Рабочий стол\Вышка Лобач\2 курс\ПРОГИ\2 дз\graphics\graphics\bin\Debug\graphics.pdb
+F:\Рабочий стол\Вышка Лобач\2 курс\ПРОГИ\2 дз\graphics\graphics\obj\Debug\graphics.csprojAssemblyReference.cache
+F:\Рабочий стол\Вышка Лобач\2 курс\ПРОГИ\2 дз\graphics\graphics\obj\Debug\graphics.Form1.resources
+F:\Рабочий стол\Вышка Лобач\2 курс\ПРОГИ\2 дз\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+F:\Рабочий стол\Вышка Лобач\2 курс\ПРОГИ\2 дз\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.cache
+F:\Рабочий стол\Вышка Лобач\2 курс\ПРОГИ\2 дз\graphics\graphics\obj\Debug\graphics.exe
+F:\Рабочий стол\Вышка Лобач\2 курс\ПРОГИ\2 дз\graphics\graphics\obj\Debug\graphics.pdb
+D:\graphics\graphics\graphics\bin\Debug\graphics.exe.config
+D:\graphics\graphics\graphics\bin\Debug\graphics.exe
+D:\graphics\graphics\graphics\bin\Debug\graphics.pdb
+D:\graphics\graphics\graphics\obj\Debug\graphics.csproj.AssemblyReference.cache
+D:\graphics\graphics\graphics\obj\Debug\graphics.csproj.SuggestedBindingRedirects.cache
+D:\graphics\graphics\graphics\obj\Debug\graphics.Form1.resources
+D:\graphics\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+D:\graphics\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.cache
+D:\graphics\graphics\graphics\obj\Debug\graphics.csproj.CoreCompileInputs.cache
+D:\graphics\graphics\graphics\obj\Debug\graphics.exe
+D:\graphics\graphics\graphics\obj\Debug\graphics.pdb
+D:\Grafik\graphics\graphics\bin\Debug\graphics.exe.config
+D:\Grafik\graphics\graphics\bin\Debug\graphics.exe
+D:\Grafik\graphics\graphics\bin\Debug\graphics.pdb
+D:\Grafik\graphics\graphics\obj\Debug\graphics.csproj.AssemblyReference.cache
+D:\Grafik\graphics\graphics\obj\Debug\graphics.csproj.SuggestedBindingRedirects.cache
+D:\Grafik\graphics\graphics\obj\Debug\graphics.Form1.resources
+D:\Grafik\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+D:\Grafik\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.cache
+D:\Grafik\graphics\graphics\obj\Debug\graphics.csproj.CoreCompileInputs.cache
+D:\Grafik\graphics\graphics\obj\Debug\graphics.exe
+D:\Grafik\graphics\graphics\obj\Debug\graphics.pdb
